@@ -1,0 +1,8 @@
+//
+// Created by Alex on 2/15/17.
+//
+
+#ifndef INFO450BANKSTATEMENT_SHOWEACHTRANSACTION_H
+#define INFO450BANKSTATEMENT_SHOWEACHTRANSACTION_H
+void showEachTransaction(const std::vector<double> &vector);
+#endif //INFO450BANKSTATEMENT_SHOWEACHTRANSACTION_H
